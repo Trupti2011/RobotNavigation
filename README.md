@@ -24,6 +24,6 @@ Class Distribution:
 -- Slight-Left-Turn : 826 samples (15.13%).
 -- Sharp -Right-Turn : 328 samples (6.01%).
 -- Slight-Right-Turn: 2097 samples (38.43%).
-![image](https://github.com/Trupti2011/RobotNavigation/assets/53250507/31c982c1-b09d-4657-a85b-8ad48b94c6c2)
+
 
 
